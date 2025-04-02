@@ -1,0 +1,257 @@
+#EXTM3U url-tvg="https://tv.lucaswyte.au/all"
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/afroland.jpg",AfrolandTV
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjM5ODA4Mzc0OTN9
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/alien-nation.jpg",Alien Nation
+https://linear-888.frequency.stream/dist/vizio/888/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Reality" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/game-shows-and-reality/all-reality.jpg",All Reality We TV
+https://f45f57c2f33449aea0a62951a2df39e8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_AbsoluteReality/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/allblk-gems.jpg",Allblk Gems
+https://c2c42b57d47e452084d9a4dfcc490098.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_AllBlkGems/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/alwaysfunny.jpg",Always Funny Videos
+https://linear-12.frequency.stream/dist/vizio/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/amcn-amcthrillers_vizio_discoveryon_378x216_v01.jpeg",AMC Thrillers
+https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/playlist.m3u8
+#EXTINF:-1 group-title="History + Docs" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/bbc-antiques.jpg",Antiques Roadshow UK
+https://a89c0d96e19e4bbd9540d597a9afb17f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_AntiquesRoadshowUK/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/axmen.jpg",Ax Men
+https://8d46229f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQXhNZW5fSExT/playlist.m3u8
+#EXTINF:-1 group-title="Kids + Family" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/kids-and-family/baby_shark.png",Baby Shark TV
+https://6b54194cbd92493597e24bfa46ea7106.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_BabySharkTV/playlist.m3u8
+#EXTINF:-1 group-title="Food + Travel" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/bbc-food.jpg",BBC Food
+https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/bbc-news.jpg",BBC News
+https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/bloomberg.jpg",Bloomberg Originals
+https://9be5baa1e6a743938e02d0bc48d8bf48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_QuickTake/playlist.m3u8
+#EXTINF:-1 group-title="Kids + Family" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/bob-builder.png",Bob the Builder
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885557/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885557
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/update_BXL_WATCHFREE_DISCOVERY_368x210.png",Bounce XL
+https://795aa6fa3d7a44da8ef699ae8eab9a4e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_BounceXL/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/news-and-opinion/wfp-partner-cbc_news.png",CBC News
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885505/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885505
+#EXTINF:-1 group-title="Reality" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/cheaters.jpg",Cheaters
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885566/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885566
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/news-and-opinion/wfp-partner-cheddar_news.jpeg",Cheddar News
+https://2eb2684fa9c3497587d24bf19cf627cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_Cheddar/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/circle-country.jpg",Circle Country
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-circle-vizio/playlist.m3u8
+#EXTINF:-1 group-title="History + Docs" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/combat-war.jpg",Combat War Channel
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885558/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885558
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/court_tv.png",Court TV
+https://5c748fed0bf9488586ec321ef5aee1c7.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_CourtTV/playlist.m3u8
+#EXTINF:-1 group-title="Home" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/craftsy-tv.jpg",CraftsyTV
+https://linear-492.frequency.stream/dist/vizio/492/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/crime_360.jpeg",Crime 360
+https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/crimethrill.jpg",Crime ThrillHer
+https://6b9d2a66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/crimes-cults-killers.jpg",Crimes Cults Killers
+https://7fc4fb3d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fS3JpbWluYWxfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/DangerTV_Discover_368x210.png",DangerTV
+https://1ed0e99ba25f4d04a17b3fa8090ac0a4.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_DangerTV/playlist.m3u8
+#EXTINF:-1 group-title="Westerns + Classics" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/death-valley-days.jpg",Death Valley Days
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885571/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885571
+#EXTINF:-1 group-title="Reality" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/game-shows-and-reality/divorce_court.png",Divorce Court
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885507/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885507
+#EXTINF:-1 group-title="TV Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/doctor-who.jpg",Doctor Who Classic
+https://ca4b62de2f4340fbb82d814c883cd008.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_ClassicDoctorWho/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/electric-now.jpg",ElectricNow
+https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQxODMwMTcxMzh9
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/fail_army.jpeg",FailArmy
+https://482d9335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRmFpbEFybXlfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Game Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/family-feud.png",Family Feud Classic
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-familyfeudvizio-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Game Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/game-shows-and-reality/fear-factor.png",Fear Factor
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/FilmRiseAction_Discover.png",FilmRise Action
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885508/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885508
+#EXTINF:-1 group-title="Westerns + Classics" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/FilmRiseClassicTV_Discover.png",FilmRise Classic TV
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885509
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/vizio_discover_unit_Horror_378x216.jpeg",FilmRise Horror
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885514/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885514
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/FreeMovies_Discover_V1.png",FilmRise Movies
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885512/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885512
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/vizio_discover_unit_FilmRiseSciFr_378x216.png",FilmRise Sci-Fi
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885513
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/true_crime.png",FilmRise True Crime
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885510/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885510
+#EXTINF:-1 group-title="Westerns + Classics" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/Vizio_discover_unit_Western_378x216.jpg",FilmRise Western
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885515
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/forensnic_files.png",Forensic Files
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885516/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885516
+#EXTINF:-1 group-title="Home" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/four-in-a-bed.jpg",Four In A Bed
+https://2519f109af73401c9c975733e49eef9a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_FourInABed/playlist.m3u8
+#EXTINF:-1 group-title="Culture + Lifestyle" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/interests-and-lifestyle/foxsoul.jpg",FOX Soul
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxsoul-vizio/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/fox-weather.jpg",FOX Weather
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-weather-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Home" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/gardening-with-monty-don.jpg",Gardening with Monty Don
+https://7eee4769231948098e0ef1b01e1395aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_GardeningwithMontyDon/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/golf-nation.jpg",Golf Nation
+https://linear-612.frequency.stream/dist/vizio/612/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Westerns + Classics" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/vizio_watchfree_discovery_378x216.jpg",Grit Xtra
+https://100821d23c4a42f298cd015dd8a5a066.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_GritXtra/playlist.m3u8
+#EXTINF:-1 group-title="Food + Travel" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/home-and-food/gusto_tv.jpeg",GustoTV
+https://100c56710aec499b9f9e71a7cc5d3940.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_GustoTV/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/thumbnail.png",Hallmark Movies & More
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885520/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885520
+#EXTINF:-1 group-title="TV Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/heartland.jpg",Heartland
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885554/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885554
+#EXTINF:-1 group-title="Food + Travel" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/game-shows-and-reality/hells_kitchen.png",Hell's Kitchen | Kitchen Nightmares
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885521/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885521
+#EXTINF:-1 group-title="Home" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/home-and-food/homemade-nation.jpg",Home.Made.Nation
+https://3cfa9d89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGl2ZWx5UGxhY2VfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Home" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/homeful.jpg",Homeful
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/interests-and-lifestyle/hsn.jpeg",HSN
+https://hsn-samsung-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg",Ice Road Truckers
+https://8e8fcf5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/ion-wf.png",ION
+https://64a0a27302684f7284d88a0d532ea7d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_ION/playlist.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/ionmystery.jpg",ION Mystery
+https://b43519b7459943af841845300f2f4b0c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_IONMystery/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/IONPlus_Vizio_ChannelTile.jpg",ION Plus
+https://667253553e374143955fbd481ed518f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_IonPlus/playlist.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/jail-2.jpg",Jail
+https://4d382096a253412bbea5672515de1ec7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Jail/playlist.m3u8
+#EXTINF:-1 group-title="Westerns + Classics" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/johnny_carson.jpeg",Johnny Carson TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-johnnycarson-vizio/playlist.m3u8
+#EXTINF:-1 group-title="Reality" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/game-shows-and-reality/judge_faith.png",Judge Faith
+https://linear-650.frequency.stream/dist/vizio/650/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/kevinhart.jpg",Kevin Hart's LOL! Network
+https://7f4538d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTE9MTmV0d29ya19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Kids + Family" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watchfreeplus-explore/kidoodle.jpg",Kidoodle.TV
+https://a818c6af72054aa2bd96ed10389823eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_KidoodleTV-1/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/news-and-opinion/fox-live-now.jpg",LiveNOW from FOX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/lol-2.jpg",LOL! Stand-Up
+https://f8a27869.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTE9MU3RhbmRVcF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Mood + Ambience" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/loupe.jpg",Loupe Art + Music
+https://linear-144.frequency.stream/dist/vizio/144/hls/hd/playlist.m3u8
+#EXTINF:-1 group-title="Nature + Science" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/love-pets.jpg",Love Pets
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovepetsusa-vizious/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NMcsHcp7/Watch-Free.png",Mansa Mix
+https://d6293d99c2c045a582e615a5ea1e6775.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_MansaMix/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/sctv_xumo_discover_maverickMovie.png",Maverick Black Cinema
+https://c769d1503f8c498292ac25d733e738cc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_MaverickBlackCinema/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/mav_tv.png",MavTV Select
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-vizious/playlist.m3u8
+#EXTINF:-1 group-title="History + Docs" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/modern-marvels-2.jpg",Modern Marvels presented by History
+https://afa672a3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/monster-jam.jpg",Monster Jam
+https://8644ef8e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9uc3RlckphbV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/motortrend.jpg",MotorTrend Fast TV
+https://295298a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW90b3JUcmVuZEZhc3RUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/moviefavorites.jpg",Movie Favorites by Lifetime
+https://5ee29b66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSG9saWRheU1vdmllRmF2b3JpdGVzYnlMaWZldGltZV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/MSGSPORTSZONE_Discover_Image.jpg",MSG SportsZone
+https://37ed58e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Westerns + Classics" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/mystery_science.jpeg",Mystery Science Theater 3000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-mst3k-vizio/playlist.m3u8
+#EXTINF:-1 group-title="Mood + Ambience" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/nature-moments.jpg",Nature Moments by Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturemomentsuhd-vizious/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/newsmax-2.jpg",Newsmax 2
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-newsmax-vizio/playlist.m3u8
+#EXTINF:-1 group-title="Kids + Family" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/kids-and-family/ninja-kids.jpeg",Ninja Kidz TV
+https://fb57620e844a42628b348ebce63f15c1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_NinjaKidzTV/playlist.m3u8
+#EXTINF:-1 group-title="Reality" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/game-shows-and-reality/nosey.jpeg",Nosey
+https://6844fef9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTm9zZXlfSExT/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/news-and-opinion/wfp-partner-oan.png",OAN Plus
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-oneamericanews-vizio/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/overtime.jpg",Overtime
+https://761ea40fc4384b73a8dac2975eae2718.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Overtime/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NMcsHcp7/Watch-Free.png",PAC12 Insider
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/paranormal_files.png",Paranormal Files
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885527/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885527
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/NMcsHcp7/Watch-Free.png",Players TV
+https://linear-656.frequency.stream/dist/vizio/656/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/AMCN_PortlandiaIFC_Vizio_Discovery_378x216_v01.jpg",Portlandia
+https://b84386a1af744d68ab1a216c8dbb5f3b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Portlandia/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/pfl-professional-fighters-league.jpg",Professional Fighters League
+https://c27dfe8a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/music/qello.jpg",Qello Concerts by Stingray
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885528/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885528
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/interests-and-lifestyle/q.jpeg",QVC
+https://qvc-samsung-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/news-and-opinion/wfp-partner-rav.jpeg",Real America's Voice
+https://ca88f6e89f1b450b89e492bb1a909db6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_AmericasVoice/playlist.m3u8?
+#EXTINF:-1 group-title="Nature + Science" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/real_wild.jpeg",Real Wild
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-realwild-vizio/playlist.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/reelzfamous.jpg",Reelz Famous & Infamous
+https://linear-190.frequency.stream/dist/vizio/190/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Culture + Lifestyle" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/interests-and-lifestyle/revry.jpeg",Revry
+https://bf36190600f5421db1a668216975d4a0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_Revry/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/schwab-network.jpg",Schwab Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-tdameritrade-vizio/playlist.m3u8
+#EXTINF:-1 group-title="Kids + Family" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/shaun-sheep.jpg",Shaun the Sheep & Friends
+https://api-ott.aardman.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1062&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQyOTIzMjUwNDB9
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/spark-tv.jpg",Spark TV Light & Love
+https://2a41c39edb1543cd889f15c01c180124.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_SparkTV/playlist.m3u8
+#EXTINF:-1 group-title="Food + Travel" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/spirits-network.jpg",Spirits Network
+https://linear-611.frequency.stream/dist/vizio/611/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/sportsgrid_3.png",SportsGrid
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-sportsgrid-vizio/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/stingray-classic-rock.jpg",Stingray Classic Rock
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885530/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885530
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/stingray-greatest-hits.jpg",Stingray Greatest Hits
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885531/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885531
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/stingray-hit-list.jpg",Stingray Hit List
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885532/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885532
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/stingray-hot-country.jpg",Stingray Hot Country
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885533/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885533
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/stingray-soul-storm.jpg",Stingray Soul Storm
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885536/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885536
+#EXTINF:-1 group-title="Kids + Family" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/strawberry-shortcake.jpg",Strawberry Shortcake
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885555/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885555
+#EXTINF:-1 group-title="Kids + Family" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/kids-and-family/super-simple-songs.jpeg",Super Simple Songs
+https://5350c8d38aec4989b3b9ec5d76dbe624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SuperSimpleSongs/playlist.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/swerve-combat.jpg",Swerve Combat
+https://linear-253.frequency.stream/dist/vizio/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Food + Travel" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/tastemade-food.png",Tastemade Food & More
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
+#EXTINF:-1 group-title="Kids + Family" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/teletubbies.png",Teletubbies
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885556/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885556
+#EXTINF:-1 group-title="Game Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/the-biggest-loser.jpg",The Biggest Loser
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-thebiggestloser-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Westerns + Classics" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/carol_burnett.jpeg",The Carol Burnett Show
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-carol-burnett-vizio/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/the-pet-collective.jpg",The Pet Collective
+https://5bcb335914e34d4fbf017a3636b2a45a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ThePetCollective-2/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/amcn-twdu_vizio_discoveryon_378x216_v01.jpg",The Walking Dead Universe
+https://3544bb307ed14ee28dc1e02dfc7056be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_TWDUniverseExperience/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/tiktok-radio.jpg",TikTok Radio
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885552/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885552
+#EXTINF:-1 group-title="Home" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/home-and-food/tiny_house_nation.jpeg",Tiny House Nation
+https://42bea5f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGlueUhvdXNlTmF0aW9uX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/topgear.jpg",Top Gear
+https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/torque.jpg",Torque
+https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/tru-blu.jpg",TruBlu
+https://f9c10f0a78fc4951ba989f5a0446bfdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_TruBlu/playlist.m3u8
+#EXTINF:-1 group-title="History + Docs" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/truehistory.jpg",True History
+https://linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/unsolved_mysteries.png",Unsolved Mysteries
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885541/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885541
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/untold-stories.jpg",Untold Stories of the ER
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885572/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885572
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/unxplainedzone.jpg",UnXplained Zone
+https://2fb56834.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVW5YcGxhaW5lZFpvbmVfSExT/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/news-and-opinion/wfp-partner-usa_today.png",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-vizious/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/news-and-opinion/wfp-partner-weather_nation.jpeg",WeatherNation
+https://867201d948f94717a5224db6777289ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_WeatherNationTV/playlist.m3u8
+#EXTINF:-1 group-title="Westerns + Classics" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/western-bound.png",Western Bound
+https://api-ott-imagicomm-ime.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQwMDkyMDIxMzR9
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/wpt.jpeg",World Poker Tour
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/evil-killers.jpg",World's Most Evil Killers
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885565/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885565
+#EXTINF:-1 group-title="Crime" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/worlds-wildest-police-videos.jpg",Worlds Wildest Police Videos
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885573/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885573
+#EXTINF:-1 group-title="Nature + Science" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/xplore.jpeg",Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-xplore-vizio/playlist.m3u8
+#EXTINF:-1 group-title="News + Opinion" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/news-and-opinion/wfp-partner-yahoo_finance.png",Yahoo! Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8

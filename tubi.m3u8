@@ -1,0 +1,215 @@
+#EXTM3U url-tvg="https://tv.lucaswyte.au/all"
+#EXTINF:-1 ,ABC News Live
+https://livetv-fa.tubi.video/abc-news/index.m3u8
+#EXTINF:-1 ,Always Funny Videos
+https://apollo.production-public.tubi.io/live/ac-afv.m3u8
+#EXTINF:-1 ,American Pickers Channel
+https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8
+#EXTINF:-1 ,America's Test Kitchen
+https://apollo.production-public.tubi.io/live/ac-americas-test-kitchen2.m3u8
+#EXTINF:-1 ,Anger Management Channel
+https://apollo.production-public.tubi.io/live/ac-anger-management2.m3u8
+#EXTINF:-1 ,Antiques Road Trip
+https://aegis-cloudfront-1.tubi.video/35b865e3-cb8d-4d5b-9202-5490fce4477c/playlist.m3u8
+#EXTINF:-1 ,Are We There Yet? Channel
+https://apollo.production-public.tubi.io/live/ac-are-we-there-yet2.m3u8
+#EXTINF:-1 ,Baywatch
+https://apollo.production-public.tubi.io/live/ac-baywatch.m3u8
+#EXTINF:-1 ,BBC Earth
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+#EXTINF:-1 ,Silent Witness + New Tricks
+https://aegis-cloudfront-1.tubi.video/3723e418-8627-4a29-96fd-bcfebfccb004/playlist.m3u8
+#EXTINF:-1 ,Top Gear
+https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8
+#EXTINF:-1 ,BeIN Sports Xtra
+https://apollo.production-public.tubi.io/live/ac-bein.m3u8
+#EXTINF:-1 ,The Biggest Loser
+https://apollo.production-public.tubi.io/live/ac-biggest-loser.m3u8
+#EXTINF:-1 ,Bloomberg TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
+#EXTINF:-1 ,Bloomberg Originals
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Originals.m3u8
+#EXTINF:-1 ,Bounce XL
+https://apollo.production-public.tubi.io/live/ac-bounce-xl.m3u8
+#EXTINF:-1 ,BritBox Mysteries
+https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist.m3u8
+#EXTINF:-1 ,Buzzr
+https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8
+#EXTINF:-1 ,Caught in Providence
+https://livetv-fa.tubi.video/caught-in-providence2/playlist.m3u8
+#EXTINF:-1 ,CBC News Network
+https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
+#EXTINF:-1 ,Cold Case Files
+https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
+#EXTINF:-1 ,Comedy Dynamics
+https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8
+#EXTINF:-1 ,Cosmos
+https://apollo.production-public.tubi.io/live/ac-cosmos.m3u8
+#EXTINF:-1 ,Court TV
+https://apollo.production-public.tubi.io/live/ac-court-tv.m3u8
+#EXTINF:-1 ,Crime ThrillHer
+https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8
+#EXTINF:-1 ,Dance Moms
+https://apollo.production-public.tubi.io/live/ac-dance-moms.m3u8
+#EXTINF:-1 ,Dateline 24/7
+https://apollo.production-public.tubi.io/live/ac-dateline.m3u8
+#EXTINF:-1 ,DAZN Ringside
+https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8
+#EXTINF:-1 ,DAZN Womens Football
+https://apollo.production-public.tubi.io/live/dazn-womens-football.m3u8
+#EXTINF:-1 ,Deal or No Deal
+https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8
+#EXTINF:-1 ,Def Jam
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/playlist.m3u8
+#EXTINF:-1 ,Doctor Who Classic
+https://aegis-cloudfront-1.tubi.video/7e9ef0f5-4d13-4083-aa3f-9375e652a4c9/playlist.m3u8
+#EXTINF:-1 ,Dog the Bounty Hunter
+https://apollo.production-public.tubi.io/live/ac-dog-the-bounty-hunter.m3u8
+#EXTINF:-1 ,Dr. G: Medical Examiner
+https://apollo.production-public.tubi.io/live/ac-dr-g-filmrise.m3u8
+#EXTINF:-1 ,Duck Dynasty
+https://apollo.production-public.tubi.io/live/ac-duck-dynasty.m3u8
+#EXTINF:-1 ,Ebony TV
+https://aegis-cloudfront-1.tubi.video/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8
+#EXTINF:-1 ,Euronews
+https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
+#EXTINF:-1 ,Fanduel TV Extra
+https://aegis-cloudfront-1.tubi.video/fdd93041-1042-41bf-9200-8f9efe38ace5/playlist.m3u8
+#EXTINF:-1 ,FBI Files
+https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8
+#EXTINF:-1 ,Fear Factor
+https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8
+#EXTINF:-1 ,Filmrise Black TV
+https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv.m3u8
+#EXTINF:-1 ,Filmrise Cheaters
+https://apollo.production-public.tubi.io/live/ac-cheaters.m3u8
+#EXTINF:-1 ,Filmrise Forensic Files
+https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
+#EXTINF:-1 ,Filmrise Horror
+https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
+#EXTINF:-1 ,Filmrise The Rifleman
+https://apollo.production-public.tubi.io/live/ac-rifleman-filmrise.m3u8
+#EXTINF:-1 ,Filmrise True Crime
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
+#EXTINF:-1 ,FilmRise Unsolved Mysteries
+https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8
+#EXTINF:-1 ,Filmrise World's Most Evil Killers
+https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8
+#EXTINF:-1 ,Fox Soul
+https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8
+#EXTINF:-1 ,Fox Sports
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+#EXTINF:-1 ,Fox Weather
+https://livetv-fa.tubi.video/fox-weather/index.m3u8
+#EXTINF:-1 ,Fubo Sports Network
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+#EXTINF:-1 ,Gardening with Monty Don
+https://apollo.production-public.tubi.io/live/ac-gardening-monty-don.m3u8
+#EXTINF:-1 ,Gordon Ramsay
+https://apollo.production-public.tubi.io/live/ac-gordon-ramsey.m3u8
+#EXTINF:-1 ,Grit Xtra
+https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
+#EXTINF:-1 ,Haunt TV
+https://aegis-cloudfront-1.tubi.video/43911d88-1ba4-4595-9b35-bf96d09efeef/playlist.m3u8
+#EXTINF:-1 ,Heartland
+https://apollo.production-public.tubi.io/live/ac-heartland.m3u8
+#EXTINF:-1 ,Hi-Yah!
+https://apollo.production-public.tubi.io/live/ac-hi-yah.m3u8
+#EXTINF:-1 ,Homeful
+https://aegis-cloudfront-1.tubi.video/36785f5f-4e63-4cca-a16a-c8b309af0287/playlist.m3u8
+#EXTINF:-1 ,Ice Road Truckers
+https://apollo.production-public.tubi.io/live/ac-ice-road-truckers.m3u8
+#EXTINF:-1 ,ION
+https://apollo.production-public.tubi.io/live/ac-ion.m3u8
+#EXTINF:-1 ,ION Plus
+https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8
+#EXTINF:-1 ,ION Mystery
+https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
+#EXTINF:-1 ,ION Mystery alt
+https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist.m3u8
+#EXTINF:-1 ,The Jack Hanna Channel
+https://aegis-cloudfront-1.tubi.video/fee88745-76df-428f-ad7e-1766f91e2098/playlist.m3u8
+#EXTINF:-1 ,Kartoon Channel
+https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8
+#EXTINF:-1 ,LiveNow from FOX
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 ,Localish
+https://apollo.production-public.tubi.io/live/ac-localish.m3u8
+#EXTINF:-1 ,LOL Network
+https://apollo.production-public.tubi.io/live/lol-network3.m3u8
+#EXTINF:-1 ,LOL Standup
+https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
+#EXTINF:-1 ,Love Nature
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+#EXTINF:-1 ,Love Quest
+https://apollo.production-public.tubi.io/live/ac-all-real.m3u8
+#EXTINF:-1 ,The Masked Singer
+https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8
+#EXTINF:-1 ,Maverick Black Cinema
+https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8
+#EXTINF:-1 ,Midsomer Murders
+https://apollo.production-public.tubi.io/live/ac-midsomer-murders.m3u8
+#EXTINF:-1 ,MLB
+https://livetv-fa.tubi.video/mlb3/playlist.m3u8
+#EXTINF:-1 ,MovieSphere
+https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
+#EXTINF:-1 ,MrBeast
+https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8
+#EXTINF:-1 ,MyTime Movie Network
+https://livetv-fa.tubi.video/my-time/playlist.m3u8
+#EXTINF:-1 ,NBC News Now
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 ,NFL
+https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+#EXTINF:-1 ,NHL
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+#EXTINF:-1 ,NHRA TV
+https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
+#EXTINF:-1 ,Nosey
+https://aegis-cloudfront-1.tubi.video/78c30bbd-f60c-4ee6-9922-ad7aa63ca8ec/playlist.m3u8
+#EXTINF:-1 ,OuterSphere
+https://livetv-fa.tubi.video/outersphere2/playlist.m3u8
+#EXTINF:-1 ,Outside TV
+https://livetv-fa.tubi.video/outsidetv2/playlist.m3u8
+#EXTINF:-1 ,Poker Go
+https://apollo.production-public.tubi.io/live/ac-pokergo.m3u8
+#EXTINF:-1 ,Property Brothers Channel
+https://apollo.production-public.tubi.io/live/ac-property-brothers.m3u8
+#EXTINF:-1 ,Racing America
+https://livetv-fa.tubi.video/racing-america/playlist.m3u8
+#EXTINF:-1 ,Reelz
+https://apollo.production-public.tubi.io/live/ac-reelz.m3u8
+#EXTINF:-1 ,Revolt
+https://livetv-fa.tubi.video/revolt/playlist.m3u8
+#EXTINF:-1 ,Scripps News
+https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
+#EXTINF:-1 ,Super Channel Uncovered
+https://apollo.production-public.tubi.io/live/ac-super-channel-uncovered-canada.m3u8
+#EXTINF:-1 ,Supermarket Sweep
+https://apollo.production-public.tubi.io/live/ac-supermarket.m3u8
+#EXTINF:-1 ,TMZ
+https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
+#EXTINF:-1 ,Today All Day
+https://apollo.production-public.tubi.io/live/ac-today.m3u8
+#EXTINF:-1 ,Top Rank Classics
+https://apollo.production-public.tubi.io/live/ac-top-rank.m3u8
+#EXTINF:-1 ,Total Crime
+https://aegis-cloudfront-1.tubi.video/0c770ac6-72a3-4618-aed4-4518a19df0d5/playlist.m3u8
+#EXTINF:-1 ,Tubi Originals
+https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
+#EXTINF:-1 ,TV One Crime & Justice
+https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
+#EXTINF:-1 ,UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 ,Unsolved Mysteries
+https://livetv-fa.tubi.video/unsolved-mysteries/index.m3u8
+#EXTINF:-1 ,Wanted: Dead or Alive
+https://apollo.production-public.tubi.io/live/ac-wanted-dead-or-alive2.m3u8
+#EXTINF:-1 ,Waypoint TV
+https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/playlist.m3u8
+#EXTINF:-1 ,Wipeout Xtra
+https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8
+#EXTINF:-1 ,Women's Sports Network
+https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
+#EXTINF:-1 ,Xplore
+https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8

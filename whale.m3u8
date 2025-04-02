@@ -1,0 +1,37 @@
+#EXTM3U url-tvg="https://tv.lucaswyte.au/all"
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/90jLcsF6/Brat-TV.png",Brat TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-zeasn/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/C1MK9xbX/Craction.png",Craction TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00609-palatinmediafil-cractiontv-zeasn/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/gcZ05QhY/Drone-TV-alt.png",Drone TV
+https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zKDsmvK/euronews.png",Euronews World
+https://euronews-euronews-world-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/yxHC2Qqd/FashionTV.png",FashionTV
+https://fashiontv-fashiontv-5-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/6QkkGjp0/Filmzie.png",Filmzie
+https://filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qBbGbt8f/Global-Fashion-Channel.png",Global Fashion Channel
+https://gfcomnimedia-globalfashionchannel-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/zvVTZjTs/GoUSA-TV.png",GoUSA TV
+https://brandusa-gousa-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5tbvN1wq/gusto-tv.png",Gusto TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gusto-zeasn/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/BbpnqLG2/Just-for-Laughs.png",Just for Laughs TV
+https://distributionsjustepourrire-justforlaughstv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/GtdpwP6c/Just-for-Laughs-Gags.png",Just for Laughs: Gags
+https://distributionsjustepourrire-justforlaughsgags-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/prHJw72p/Newsmax.png",Newsmax TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00217-newsmax-newsmax-zeasn/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k4pB8RH9/SportsGrid.png",SportsGrid
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-zeasn/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L7kXGbw/TED.png",TED Conferences
+https://tedconferences-ted-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/65s1Ljn2/Trace-Urban.png",Trace Urban
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00398-zeasneuropebv-traceurban-zeasn/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZRGjHnBt/travelxp.png",TravelXP
+https://travelxp-travelxp-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/rmVqmyFT/wedo-movies.png",Wedo Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-w4movies-zeasn-zeasn/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/JnDnCFSN/wedotv-Movies.png",Wedotv Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4-zeasn-zeasn/playlist.m3u8

@@ -1,0 +1,75 @@
+#EXTM3U url-tvg="https://tv.lucaswyte.au/all"
+#EXTINF:-1 ,Demand Africa
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachanne-demandafrica-xiaomi/playlist.m3u8
+#EXTINF:-1 ,PocketWatch
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-pocketwatch-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Young Hollywood
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Mytime (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Brat TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-bratttv-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Now 70s
+https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Now 80s
+https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Now 90s
+https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Pulse
+https://lightning-pulse-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Mtrsprt 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Fuel TV (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Tastemade (AU)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tminaaus-xiaomi/playlist.m3u8
+#EXTINF:-1 ,MovieDome
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8
+#EXTINF:-1 ,MovieDome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-xiaomi/playlist.m3u8
+#EXTINF:-1 ,MovieDome (UK)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Action Hollywood Movies
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,OAN Encore (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-oanencore-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Screamin (Asia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-screamin-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Sportsgrid (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sportsgridin-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Trace Sports Stars (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-tracesportsstar-xiaomi/playlist.m3u8
+#EXTINF:-1 ,WPT (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-wpt-xiaomi/playlist.m3u8
+#EXTINF:-1 ,India TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-xiaomi/playlist.m3u8
+#EXTINF:-1 ,India TV Speed News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Trace Sports Stars
+https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Trace Sports Stars alt
+https://tracetv-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Mob TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Unbeaten
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Sports Grid
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Inwonder HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Museum TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1 ,MYZEN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Petclub
+https://lightning-petclub-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Clubbing TV
+https://clubbingtv-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Fusebeat (UK)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeatuk-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Wedo Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Watch4Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Trace Urban
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8

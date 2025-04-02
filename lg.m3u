@@ -1,0 +1,317 @@
+#EXTM3U url-tvg="https://tv.lucaswyte.au/all"
+#EXTINF:-1 tvg-chno="203" tvg-name="GoUSA TV" group-title="Hobby / Leisure",GoUSA TV
+https://brandusa-gousa-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-name="Autentic Travel" group-title="Hobby / Leisure",Autentic Travel
+https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-name="TravelXP" group-title="Hobby / Leisure",TravelXP
+https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="504" tvg-name="Baby Shark TV" group-title="Kids",Baby Shark TV
+https://newidco-babysharktv-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-name="MyTime Movie Network" group-title="Movies",MyTime Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovient-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-name="Sparkle Movies: Light & Love" group-title="Movies",Sparkle Movies: Light & Love
+https://candlelightmedia-sparklemovies-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="626" tvg-name="PBS Science" group-title="Movies",PBS Science
+https://amg02333-pbs-amg02333c10-lg-au-4537.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="670" tvg-name="Real Crime" group-title="Movies",Real Crime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimealpha-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="445" tvg-name="Clubbing TV" group-title="Music",Clubbing TV
+https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="450" tvg-name="Trace Urban" group-title="Music",Trace Urban
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-urban-lg-uk/playlist.m3u8
+#EXTINF:-1 tvg-chno="455" tvg-name="Qwest TV" group-title="Music",Qwest TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="464" tvg-name="Show Champion" group-title="Music",Show Champion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5464
+#EXTINF:-1 tvg-chno="105" tvg-name="Sky News Now" group-title="News",Sky News Now
+https://amg00663-skynewsau-amg00663c1-lg-au-4519.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-name="LeadStory Breaking News" group-title="News",LeadStory Breaking News
+https://amg02703-leadstory-amg02703c16-lg-au-3151.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-name="Euronews World" group-title="News",Euronews World
+https://amg00882-amg00882c2-lg-au-4259.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="404" tvg-name="Bloomberg TV+" group-title="News",Bloomberg TV+
+https://bloomberg-bloombergtv-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="610" tvg-name="Bloomberg Originals" group-title="News",Bloomberg Originals
+https://bloomberg-quicktake-4-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="807" tvg-name="The Biggest Loser" group-title="Reality TV",The Biggest Loser
+https://amg00627-banijay-amg00627c7-lg-au-1974.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="808" tvg-name="Fear Factor" group-title="Reality TV",Fear Factor
+https://amg00627-banijay-amg00627c3-lg-au-1971.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="809" tvg-name="Wipeout Xtra" group-title="Reality TV",Wipeout Xtra
+https://amg00627-banijay-amg00627c4-lg-au-1973.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="816" tvg-name="Hardcore Pawn" group-title="Reality TV",Hardcore Pawn
+https://amg00627-banijay-amg00627c8-lg-au-4930.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="840" tvg-name="Deal or no Deal" group-title="Reality TV",Deal or no Deal
+https://amg00627-banijay-amg00627c2-lg-au-1972.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodeal-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="849" tvg-name="Dog the Bounty Hunter" group-title="Reality TV",Dog the Bounty Hunter
+https://amg00276-aenetwork-amg00276c11-lg-au-5154.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="877" tvg-name="Life Downunder" group-title="Reality TV",Life Downunder
+https://wtfn-lifedownunder-2-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="878" tvg-name="Bondi Vet" group-title="Reality TV",Bondi Vet
+https://wtfn-bondivet-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="891" tvg-name="Jail" group-title="Reality TV",Jail
+https://langleyproductions-jail-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="892" tvg-name="Cops " group-title="Reality TV",Cops 
+https://langleyproductions-cops-2-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-name="Introuble HD" group-title="Sport",Introuble HD
+https://amg00861-terncloud-amg00861c6-lg-au-3099.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="705" tvg-name="PAC12" group-title="Sport",PAC12
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-pac12-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="710" tvg-name="Strongman Champions League" group-title="Sport",Strongman Champions League
+https://rightsboosterltd-scl-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="720" tvg-name="MTRSPT 1" group-title="Sport",MTRSPT 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="730" tvg-name="SportsGrid" group-title="Sport",SportsGrid
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="741" tvg-name="Trace Stars" group-title="Sport",Trace Stars
+https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-name="AWE Plus" group-title="Talk Show & Entertainment",AWE Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/oneameric-aweencore-lg/playlist.m3u8
+#EXTINF:-1 tvg-chno="217" tvg-name="Smart Healthy Green Living" group-title="Talk Show & Entertainment",Smart Healthy Green Living
+https://amg16109-shgliving-amg16109c1-lg-au-2093.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="221" tvg-name="Infast Lifestyle HD" group-title="Talk Show & Entertainment",Infast Lifestyle HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-name="Tastemade" group-title="Talk Show & Entertainment",Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-lgus/playlist.m3u8
+#EXTINF:-1 tvg-chno="245" tvg-name="Love Wine" group-title="Talk Show & Entertainment",Love Wine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="247" tvg-name="LifeMinute TV" group-title="Talk Show & Entertainment",LifeMinute TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminutetv-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="321" tvg-name="Young Hollywood" group-title="Talk Show & Entertainment",Young Hollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="323" tvg-name="Revolt TV" group-title="Talk Show & Entertainment",Revolt TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-revolttv-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="326" tvg-name="La La Life" group-title="Talk Show & Entertainment",La La Life
+https://amg02051-soulpublishing-amg02051c8-lg-au-343.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="329" tvg-name="Nosey" group-title="Talk Show & Entertainment",Nosey
+https://amg00514-amg00514c1-lg-au-4898.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="340" tvg-name="Robot Wars by Mech+" group-title="Talk Show & Entertainment",Robot Wars by Mech+
+https://mechtvltd-mechplus-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="380" tvg-name="Running Man" group-title="Talk Show & Entertainment",Running Man
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5490
+#EXTINF:-1 tvg-chno="382" tvg-name="K-Star Golf" group-title="Talk Show & Entertainment",K-Star Golf
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5498
+#EXTINF:-1 tvg-chno="405" tvg-name="Defiance Media" group-title="Talk Show & Entertainment",Defiance Media
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-defiancemediaau-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="465" tvg-name="Weekly Idol" group-title="Talk Show & Entertainment",Weekly Idol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5466
+#EXTINF:-1 tvg-chno="490" tvg-name="My Little Pet" group-title="Talk Show & Entertainment",My Little Pet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
+#EXTINF:-1 tvg-chno="493" tvg-name="Real Wild" group-title="Talk Show & Entertainment",Real Wild
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="497" tvg-name="Adventure Earth" group-title="Talk Show & Entertainment",Adventure Earth
+https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="521" tvg-name="123 Go!" group-title="Talk Show & Entertainment",123 Go!
+https://amg02051-soulpublishing-amg02051c17-lg-au-340.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="522" tvg-name="Brat TV" group-title="Talk Show & Entertainment",Brat TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="611" tvg-name="Autentic History" group-title="Talk Show & Entertainment",Autentic History
+https://autentic-autentichistory-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="622" tvg-name="History Hit Channel" group-title="Talk Show & Entertainment",History Hit Channel
+https://amg00426-lds-amg00426c5-lg-au-2370.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="642" tvg-name="Inwonder HD" group-title="Talk Show & Entertainment",Inwonder HD
+https://amg00861-terncloud-amg00861c8-lg-au-3101.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderhd-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="645" tvg-name="Brightside" group-title="Talk Show & Entertainment",Brightside
+https://amg02051-soulpublishing-amg02051c8-lg-au-343.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsideenglish-lgau/playlist.m3u8
+#EXTINF:-1 tvg-chno="648" tvg-name="Wonder" group-title="Talk Show & Entertainment",Wonder
+https://amg00426-lds-amg00426c10-lg-au-2368.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-wonder-lgau/playlist.m3u8
+#EXTINF:-1 tvg-name="Accuweather",Accuweather
+https://accuweatherx-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Air and Space",Air and Space
+https://wingspan-airandspace-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="All Real",All Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/lgAAAAAAA-banijay-allreal-lg-us/playlist.m3u8
+#EXTINF:-1 tvg-name="All Reality",All Reality
+https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Portlandia",Portlandia
+https://amc-portlandia-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Stories by AMC",Stories by AMC
+https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Walking Dead Fan Experience",The Walking Dead Fan Experience
+https://amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Anger Management Channel",Anger Management Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Are we There Yet Channel",Are we There Yet Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Artflix",Artflix
+https://amogonetworx-artflix-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="AWE",AWE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8
+#EXTINF:-1 tvg-name="Baywatch",Baywatch
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Bargain Hunt UK",Bargain Hunt UK
+https://bbc-studios-bargainhunt-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dinos 24x7",Dinos 24x7
+https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Gear UK",Top Gear UK
+https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Bigtjme",Bigtjme
+https://amogonetworx-bigtjme-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Buzzr",Buzzr
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS",CBS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529
+#EXTINF:-1 tvg-name="Craction TV",Craction TV
+https://palatinmedia-cractiontv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Crimetime",Crimetime
+https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dance Moms",Dance Moms
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00276-aetelevisionnet-dancemoms-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Degrassi",Degrassi
+https://dhx-degrassi-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Demand Africa",Demand Africa
+https://demandafrica-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Divorce Court",Divorce Court
+https://foxlincolnwooddrive-divorcecourt-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Docu Plus C7",Docu Plus C7
+https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Docu Plus C9",Docu Plus C9
+https://amg02040-lguplus-amg02040c9-tcl-us-6425.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Entrepreneur TV",Entrepreneur TV
+https://cineverse-entrepreneurtv-entrepreneurtv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Fashion TV",Fashion TV
+https://fashiontv-fashiontv-5-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmzie",Filmzie
+https://filmzie-filmzie-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Food",Food
+https://food-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX Soul",FOX Soul
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Fuel TV",Fuel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+#EXTINF:-1 tvg-name="Fuse Beat",Fuse Beat
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeatuk-lggb/playlist.m3u8
+#EXTINF:-1 tvg-name="GB News",GB News
+https://amg01076-lightning-amg01076c1-lg-gb-2020.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
+#EXTINF:-1 tvg-name="Great British Menu",Great British Menu
+https://all3media-great-british-menu-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Great Movies!",Great Movies!
+https://amg01753-amg01753c3-lg-ie-2962.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lgie/playlist.m3u8
+#EXTINF:-1 tvg-name="Grjngo",Grjngo
+https://amogonetworx-grjngo-3-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Haunt TV",Haunt TV
+https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="HerSphere",HerSphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="History Time",History Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="HNC",HNC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/hncAAAAAA-hncfree-lg-uk/playlist.m3u8
+#EXTINF:-1 tvg-name="Homeful",Homeful
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulworldwide-lggb/playlist.m3u8
+#EXTINF:-1 tvg-name="Homes under the Hammer",Homes under the Hammer
+https://all3media-homes-under-the-hammer-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="HSN",HSN
+https://hsn-samsung-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Icon Film Classics",Icon Film Classics
+https://iconfilmsdistribution-iconfilmchannelclassics-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ION",ION
+https://scripps-ion-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ION Mystery",ION Mystery
+https://scripps-ionmystery-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kids TV",Kids TV
+https://jansonmedia-kidstv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kidspang TV",Kidspang TV
+https://newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Pets",Love Pets
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-lggb/playlist.m3u8
+#EXTINF:-1 tvg-name="LoveNature",LoveNature
+https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MajorDomo TV",MajorDomo TV
+https://lg-majordomo-media-channel-dc-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Master Chef UK",Master Chef UK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchefuk-lgca/playlist.m3u8
+#EXTINF:-1 tvg-name="Maverick Black Cinema",Maverick Black Cinema
+https://maverick-maverick-black-cinema-2-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Mob TV",Mob TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-mobtv-lgau/playlist.m3u8
+#EXTINF:-1 tvg-name="Moconomy",Moconomy
+https://amogonetworx-moconomy-2-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MovieDome",MovieDome
+https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MovieDome Family",MovieDome Family
+https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies 4 Free",Movies 4 Free
+https://movies4free-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="New Movies",New Movies
+https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Newsmax 2",Newsmax 2
+https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Oan",Oan
+https://oan-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ondemand China",Ondemand China
+https://newidco-ondemandchina-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Origin Sports",Origin Sports
+https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Outdoor Channel",Outdoor Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
+#EXTINF:-1 tvg-name="Pop Flix",Pop Flix
+https://signatureentertainment-popflix-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="QVC",QVC
+https://qvc-samsung-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Qwest Mix",Qwest Mix
+https://qwest-mix-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Racing America",Racing America
+https://racingamerica-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Screamin",Screamin
+https://zylo-screamin-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Scripps News",Scripps News
+https://scripps-newsy-3-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Super Simple Songs",Super Simple Songs
+https://janson-supersimplesongs-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Super Wings",Super Wings
+https://jansonmedia-superwings-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade Home",Tastemade Home
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade Travel",Tastemade Travel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Teen Vee",Teen Vee
+https://amg02051-soulpublishing-amg02051c5-lg-au-305.playouts.now.amagi.tv/playlist/amg02051-amg02051c5-305/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Plus",Tennis Plus
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
+#EXTINF:-1 tvg-name="The Beverly Hillbillies",The Beverly Hillbillies
+https://lg-thebeverlyhillbillies-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Hill",The Hill
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-thehill-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="The Price is Right Baker Era",The Price is Right: The Baker Era
+https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Red Green Show",The Red Green Show
+https://answermedia-theredgreenshow-2-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Weather Network",The Weather Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
+#EXTINF:-1 tvg-name="Timeline",Timeline
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-lggb/playlist.m3u8
+#EXTINF:-1 tvg-name="TMZ",TMZ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Tobot",Tobot
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5480
+#EXTINF:-1 tvg-name="Today's Homeowner",Today's Homeowner
+https://janson-todayshomeowner-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tribeca",Tribeca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Tru Blu",Tru Blu
+https://trublufactual-trublu-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Unbeaten",Unbeaten
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeatengb-lggb/playlist.m3u8
+#EXTINF:-1 tvg-name="WAGA",WAGA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-waga-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Watch4Movies",Watch4Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/videosolu-watch4movies-lg/playlist.m3u8
+#EXTINF:-1 tvg-name="Watchmojo",Watchmojo
+https://watchmojo-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Waterbear Network",Waterbear Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgau/playlist.m3u8
+#EXTINF:-1 tvg-name="Wedo Big Docs",Wedo Big Docs
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
+#EXTINF:-1 tvg-name="WFLD",WFLD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Womens Network",Womens Network
+https://womensnetwork-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Xite Hits",Xite Hits
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Xite Rock On",Xite Rock On
+https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Yu-Gi-Oh",Yu-Gi-Oh
+https://fastmedia-yu-gi-oh-1-gb.lg.wurl.tv/playlist.m3u8

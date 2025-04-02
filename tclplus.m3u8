@@ -1,0 +1,375 @@
+#EXTM3U url-tvg="https://tv.lucaswyte.au/all"
+#EXTINF:-1 ,48 Hours
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
+#EXTINF:-1 ,60 Minutes
+https://dai.google.com/linear/hls/event/nrb-l85CR7SIr-rGXqz4zA/master.m3u8
+#EXTINF:-1 ,ACL Cornhole TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814554/hls/CORNHOLETV_SCTE.m3u8?ads.xumo_channelId=88814554&ads.xumo_streamId=88814554
+#EXTINF:-1 ,AfroKiddos
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=1485&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
+#EXTINF:-1 ,AfrolandTV
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=816&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
+#EXTINF:-1 ,Air & Space
+https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_AIRandSPACE/playlist.m3u8
+#EXTINF:-1 ,Alfred Hitchcock Presents
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads.xumo_channelId=88814618&ads.xumo_streamId=88814618
+#EXTINF:-1 ,Always Funny
+https://linear-12.frequency.stream/dist/tcltv/12/hls/master/playlist.m3u8
+#EXTINF:-1 ,Always Funny Pranks & Fails
+https://linear-863.frequency.stream/dist/tcltv/863/hls/master/playlist.m3u8
+#EXTINF:-1 ,American Crimes
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814623/hls/master.m3u8?ads.xumo_channelId=88814623&ads.xumo_streamId=88814623
+#EXTINF:-1 ,American Ninja Warrior
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884523/hls/master.m3u8?ads.xumo_channelId=88884523
+#EXTINF:-1 ,America's Dumbest Criminals
+https://d3fmqi91qduj7.cloudfront.net/11401/88884548/hls/master.m3u8?ads.xumo_channelId=88884548&ads.xumo_streamId=88884548
+#EXTINF:-1 ,America's Test Kitchen
+https://d3fmqi91qduj7.cloudfront.net/11401/88814539/hls/master.m3u8?ads.xumo_channelId=88814539&ads.xumo_streamId=88814539
+#EXTINF:-1 ,At Home with Family Handyman
+https://d3fmqi91qduj7.cloudfront.net/11401/88814550/hls/playlist.m3u8?ads.xumo_channelId=88814550&ads.xumo_streamId=88814550
+#EXTINF:-1 ,Ax Men by History
+https://a3bab856.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0F4TWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 ,Baby Joy Joy
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11111
+#EXTINF:-1 ,Baby Shark TV
+https://ads.its-newid.net/api/manifest.m3u8?tp=tcl&channel_name=babysharktv&channel_id=newid_196&apikey=55080660-d60d-e00b-d70b-f7c96ba49821&auth=251b83ed-c5e5e751-7e73c622-1647013a&ads.live=%5BCONTENT_LIVE%5D&ads.deviceid=%5BDEVICE_ID%5D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.appname=%5BAPP_NAME%5D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.ua=%5BUA%5D
+#EXTINF:-1 ,Bad Girls Club
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814605/hls/master.m3u8?ads.xumo_channelId=88814605&ads.xumo_streamId=88814605
+#EXTINF:-1 ,Best of Dr. Phil
+https://79b2527c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0RyUGhpbF9ITFM/playlist.m3u8
+#EXTINF:-1 ,BET Tyler Perry Comedy
+https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8
+#EXTINF:-1 ,BET Tyler Perry Drama
+https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8
+#EXTINF:-1 ,Beyond Belief: Fact or Fiction
+https://d3fmqi91qduj7.cloudfront.net/11401/88884551/hls/master.m3u8?ads.xumo_channelId=88884551&ads.xumo_streamId=88884551
+#EXTINF:-1 ,Beyond Paranormal
+https://d9f8ca20ad154242ad75c0225d2840a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_BeyondParanormal/playlist.m3u8
+#EXTINF:-1 ,Billiard TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814555/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=88814555&ads.xumo_streamId=88814555
+#EXTINF:-1 ,Black Movie Max
+https://api-ott.blackgoldmediapartners.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=15&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
+#EXTINF:-1 ,Bloomberg Originals
+https://db197e363c144a969d09bf173e5a87be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_Originals/playlist.m3u8
+#EXTINF:-1 ,Bloomberg Television
+https://7834a26626fa4d5d9f5fb1596e0efad9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_Bloomberg/playlist.m3u8
+#EXTINF:-1 ,Bounce XL
+https://a6b36c3063ad43c38e9b2deac8b1bb69.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_BounceXL/playlist.m3u8
+#EXTINF:-1 ,Boxing TV
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814553/hls/BOXINGTV_SCTE.m3u8?includeAssetTags=true&ads.xumo_channelId=88814553&ads.xumo_streamId=88814553
+#EXTINF:-1 ,Bravo Vault
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814612/hls/master.m3u8?ads.xumo_channelId=88814612&ads.xumo_streamId=88814612
+#EXTINF:-1 ,Car Chase
+https://dai.google.com/linear/hls/event/RjvF1cd0Qx-65Dz14THpPA/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
+#EXTINF:-1 ,CBS News 24x7
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
+#EXTINF:-1 ,CBS Sports HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
+#EXTINF:-1 ,Cheaters
+https://d3fmqi91qduj7.cloudfront.net/11401/88884546/hls/master.m3u8?ads.xumo_channelId=88884546&ads.xumo_streamId=88884546
+#EXTINF:-1 ,CineLife
+https://amg00308-amg00308c1-amgplt0093.playout.now3.amagi.tv/playlist/amg00308-amg00308c1-amgplt0093/playlist.m3u8?gender=REPLACE_ME&ic=REPLACE_ME&us_privacy=REPLACE_ME&coppa=0&schain=REPLACE_ME&device[did]=REPLACE_ME&app_bundle=REPLACE_ME&genre=REPLACE_ME&gdpr=REPLACE_ME&device[dnt]=REPLACE_ME&app_store_url=REPLACE_ME&gdpr_consent=REPLACE_ME&app_name=REPLACE_ME&ifa_type=REPLACE_ME&url=REPLACE_ME
+#EXTINF:-1 ,Confess by Nosey
+https://33fd48dfe00a45eca7b22e2ea1a2a5fc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_ConfessByNosey/playlist.m3u8
+#EXTINF:-1 ,Conflict
+https://d4062a10410646ee9b327067b3cc3a70.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_Conflict/playlist.m3u8
+#EXTINF:-1 ,Court TV
+https://1d1e11c80f0642fa88d5bf116089aa7f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_CourtTV/playlist.m3u8
+#EXTINF:-1 ,Court TV Legendary Trials
+https://9437bfda.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0NvdXJ0VFZMZWdlbmRhcnlUcmlhbHNfSExT/playlist.m3u8
+#EXTINF:-1 ,CraftsyTV
+https://linear-492.frequency.stream/dist/tcltv/492/hls/master/playlist.m3u8
+#EXTINF:-1 ,Crafty Panda
+https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=18&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
+#EXTINF:-1 ,Crime 360 by A&E
+https://c8f8e8fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0NyaW1lMzYwX0hMUw/playlist.m3u8
+#EXTINF:-1 ,Crime Scene TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814579/hls/master.m3u8?ads.xumo_channelId=88814579&ads.xumo_streamId=88814579
+#EXTINF:-1 ,Crime ThrillHer by Lifetime
+https://f2ea7639.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0NyaW1lVGhyaWxsSGVyX0hMUw/playlist.m3u8
+#EXTINF:-1 ,Crimes Cults Killers by A&E
+https://e37bdef7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0tyaW1pbmFsX0hMUw/playlist.m3u8
+#EXTINF:-1 ,Dark Matter TV
+https://4f3349a0e7ee4d86ad564c8091011574.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_DarkMatterTV/playlist.m3u8
+#EXTINF:-1 ,Dateline 24/7
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814558/hls/master.m3u8?ads.xumo_channelId=88814558&ads.xumo_streamId=88814558
+#EXTINF:-1 ,Deal Zone by History
+https://ffb62e3d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0RlYWxab25lX0hMUw/playlist.m3u8
+#EXTINF:-1 ,Divorce Court
+https://d3fmqi91qduj7.cloudfront.net/11401/88814540/hls/master.m3u8?ads.xumo_channelId=88814540&ads.xumo_streamId=88814540
+#EXTINF:-1 ,Dog House TV+
+https://d3fmqi91qduj7.cloudfront.net/11401/88884520/hls/master.m3u8?ads.xumo_channelId=88884520&ads.xumo_streamId=88884520
+#EXTINF:-1 ,Dog the Bounty Hunter
+https://amg00276-amg00276c11-tclideo-na-3987.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-tclideona/playlist.m3u8
+#EXTINF:-1 ,Dr. G: Medical Examiner
+https://d3fmqi91qduj7.cloudfront.net/11401/88814507/hls/master.m3u8?ads.xumo_channelId=88814507&ads.xumo_streamId=88814507
+#EXTINF:-1 ,Dread TV
+https://144e50b7e9394d05a44271af655445f9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_DreadTV/playlist.m3u8
+#EXTINF:-1 ,FailArmy
+https://d3fmqi91qduj7.cloudfront.net/11401/88814549/hls/master.m3u8?ads.xumo_channelId=88814549&ads.xumo_streamId=88814549
+#EXTINF:-1 ,Fawesome Crime Live
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5387
+#EXTINF:-1 ,Fawesome Documentary Live
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5079
+#EXTINF:-1 ,Fawesome Horror Live
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5388
+#EXTINF:-1 ,Fawesome Live
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5389
+#EXTINF:-1 ,Fawesome She Streams Live
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5386
+#EXTINF:-1 ,FilmRise Action
+https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_channelId=88814502&ads.xumo_streamId=88814502
+#EXTINF:-1 ,FilmRise Anime
+https://d3fmqi91qduj7.cloudfront.net/11401/88814508/hls/master.m3u8?ads.xumo_channelId=88814508&ads.xumo_streamId=88814508
+#EXTINF:-1 ,FilmRise British TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814509/hls/master.m3u8?ads.xumo_channelId=88814509&ads.xumo_streamId=88814509
+#EXTINF:-1 ,FilmRise Classic TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814514/hls/master.m3u8?ads.xumo_channelId=88814514&ads.xumo_streamId=88814514
+#EXTINF:-1 ,FilmRise Horror
+https://d3fmqi91qduj7.cloudfront.net/11401/88814513/hls/master.m3u8?ads.xumo_channelId=88814513&ads.xumo_streamId=88814513
+#EXTINF:-1 ,FilmRise Kids
+https://d3fmqi91qduj7.cloudfront.net/11401/88814516/hls/master.m3u8?ads.xumo_channelId=88814516&ads.xumo_streamId=88814516
+#EXTINF:-1 ,FilmRise Movies
+https://d3fmqi91qduj7.cloudfront.net/11401/88814500/hls/master.m3u8?ads.xumo_channelId=88814500&ads.xumo_streamId=88814500
+#EXTINF:-1 ,FilmRise Sci-Fi
+https://d3fmqi91qduj7.cloudfront.net/11401/88814517/hls/master.m3u8?ads.xumo_channelId=88814517&ads.xumo_streamId=88814517
+#EXTINF:-1 ,FilmRise True Crime
+https://d3fmqi91qduj7.cloudfront.net/11401/88814506/hls/master.m3u8?ads.xumo_channelId=88814506&ads.xumo_streamId=88814506
+#EXTINF:-1 ,FlixFling
+https://d3fmqi91qduj7.cloudfront.net/11401/88814627/hls/master.m3u8?ads.xumo_channelId=88814627&ads.xumo_streamId=88814627
+#EXTINF:-1 ,FloRacing
+https://linear-554.frequency.stream/dist/tcltv/554/hls/master/playlist.m3u8
+#EXTINF:-1 ,Forensic Files
+https://d3fmqi91qduj7.cloudfront.net/11401/88814501/hls/master.m3u8?ads.xumo_channelId=88814501&ads.xumo_streamId=88814501
+#EXTINF:-1 ,Free Action & Drama TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814522/hls/master.m3u8?ads.xumo_channelId=88814522&ads.xumo_streamId=88814522
+#EXTINF:-1 ,Free Action Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814531/hls/master.m3u8?ads.xumo_channelId=88814531&ads.xumo_streamId=88814531
+#EXTINF:-1 ,Free Black Cinema
+https://d3fmqi91qduj7.cloudfront.net/11401/88814526/hls/master.m3u8?ads.xumo_channelId=88814526&ads.xumo_streamId=88814526
+#EXTINF:-1 ,Free Comedy Movies
+https://d3fmqi91qduj7.cloudfront.net/11401/88814527/hls/master.m3u8?ads.xumo_channelId=88814527&ads.xumo_streamId=88814527
+#EXTINF:-1 ,Free Horror & Thriller Movies
+https://d3fmqi91qduj7.cloudfront.net/11401/88814529/hls/master.m3u8?ads.xumo_channelId=88814529&ads.xumo_streamId=88814529
+#EXTINF:-1 ,Free Kids TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814525/hls/master.m3u8?ads.xumo_channelId=88814525&ads.xumo_streamId=88814525
+#EXTINF:-1 ,Free Movies
+https://d3fmqi91qduj7.cloudfront.net/11401/88814534/hls/master.m3u8?ads.xumo_channelId=88814534&ads.xumo_streamId=88814534
+#EXTINF:-1 ,Free Sci-Fi & Fantasy Movies
+https://d3fmqi91qduj7.cloudfront.net/11401/88814535/hls/master.m3u8?ads.xumo_channelId=88814535&ads.xumo_streamId=88814535
+#EXTINF:-1 ,Free Westerns
+https://d3fmqi91qduj7.cloudfront.net/11401/88814536/hls/master.m3u8?ads.xumo_channelId=88814536&ads.xumo_streamId=88814536
+#EXTINF:-1 ,Funny Or Die TV
+https://ecba6093876b44c9a8bd55be2ad88e4d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_FunnyOrDie/playlist.m3u8
+#EXTINF:-1 ,Go Wild
+https://d3fmqi91qduj7.cloudfront.net/11401/88814580/hls/master.m3u8?ads.xumo_channelId=88814580&ads.xumo_streamId=88814580
+#EXTINF:-1 ,Golf Pass
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814574/hls/master.m3u8?ads.xumo_channelId=88814574&ads.xumo_streamId=88814574
+#EXTINF:-1 ,Great American Adventures
+https://d3fmqi91qduj7.cloudfront.net/11401/88814542/hls/master.m3u8?ads.xumo_channelId=88814542&ads.xumo_streamId=88814542
+#EXTINF:-1 ,Grit Xtra
+https://3388c194738a4b5b8a2dcc2c497d1344.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_GritXtra/playlist.m3u8
+#EXTINF:-1 ,H2O TV
+https://linear-738.frequency.stream/dist/tcltv/738/hls/master/playlist.m3u8
+#EXTINF:-1 ,Heartland
+https://d3fmqi91qduj7.cloudfront.net/11401/88814520/hls/master.m3u8?ads.xumo_channelId=88814520&ads.xumo_streamId=88814520
+#EXTINF:-1 ,Hello Inspo
+https://linear-542.frequency.stream/dist/tcltv/542/hls/master/playlist.m3u8
+#EXTINF:-1 ,Hell's Kitchen & Kitchen Nightmares
+https://d3fmqi91qduj7.cloudfront.net/11401/88814512/hls/master.m3u8?ads.xumo_channelId=88814512&ads.xumo_streamId=88814512
+#EXTINF:-1 ,Her Free Movies
+https://d3fmqi91qduj7.cloudfront.net/11401/88814530/hls/master.m3u8?ads.xumo_channelId=88814530&ads.xumo_streamId=88814530
+#EXTINF:-1 ,Highway to Heaven
+https://d3fmqi91qduj7.cloudfront.net/11401/88884545/hls/master.m3u8?ads.xumo_channelId=88884545&ads.xumo_streamId=88884545
+#EXTINF:-1 ,Home Shopping Network
+https://qvchsn-hsn-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Home.Made.Nation
+https://a2bdc55d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0hvbWVtYWRlTmF0aW9uX0hMUw/playlist.m3u8
+#EXTINF:-1 ,Ice Road Truckers by History
+https://593eceaa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
+#EXTINF:-1 ,Inside Edition
+https://dai.google.com/linear/hls/event/Y2DMgfclT3S2nNxANeIawA/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
+#EXTINF:-1 ,ION
+https://8e1c460f78af4d1db9ab79a992d81e45.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_ION/playlist.m3u8
+#EXTINF:-1 ,ION Mystery
+https://285e01eeea2342ad8441d23b371a4b16.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_IONMystery/playlist.m3u8
+#EXTINF:-1 ,ION Plus
+https://8512584faf6549b086b2a7e77aa0a6db.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_IonPlus/playlist.m3u8
+#EXTINF:-1 ,Judge Faith TV
+https://linear-650.frequency.stream/dist/tcltv/650/hls/master/playlist.m3u8
+#EXTINF:-1 ,Judge Nosey
+https://bef6053b449646e6b0c44c0b45ca1027.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_JudgeNosey/playlist.m3u8
+#EXTINF:-1 ,Just for Laughs: Gags
+https://d3fmqi91qduj7.cloudfront.net/11401/88814545/hls/master.m3u8?ads.xumo_channelId=88814545&ads.xumo_streamId=88814545
+#EXTINF:-1 ,Keeping Up with the Kardashians
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814610/hls/master.m3u8?ads.xumo_channelId=88814610&ads.xumo_streamId=88814610
+#EXTINF:-1 ,Laff More!
+https://f28a87ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0xhZmZNb3JlX0hMUw/playlist.m3u8
+#EXTINF:-1 ,Lassie
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814621/hls/master.m3u8?ads.xumo_channelId=88814621&ads.xumo_streamId=88814621
+#EXTINF:-1 ,Leave it to Beaver
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814619/hls/master.m3u8?ads.xumo_channelId=88814619&ads.xumo_streamId=88814619
+#EXTINF:-1 ,LEGO
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5391
+#EXTINF:-1 ,Lidia's Kitchen
+https://d3fmqi91qduj7.cloudfront.net/11401/88814521/hls/master.m3u8?ads.xumo_channelId=88814521&ads.xumo_streamId=88814521
+#EXTINF:-1 ,Little House on the Prairie
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814607/hls/master.m3u8?ads.xumo_channelId=88814607&ads.xumo_streamId=88814607
+#EXTINF:-1 ,Mansa Mix
+https://215e0b945c1d4fdcb31f4d4caf79291d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_MansaMix/playlist.m3u8
+#EXTINF:-1 ,Maverick Black Cinema
+https://7d173528feef48b2a2d6477f41d947a7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_MaverickBlackCinema/playlist.m3u8
+#EXTINF:-1 ,Million Dollar Listing Vault
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814604/hls/master.m3u8?ads.xumo_channelId=88814604&ads.xumo_streamId=88814604
+#EXTINF:-1 ,Miramax Movies
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+#EXTINF:-1 ,Modern Marvels by History
+https://ee7f98f4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX01vZGVybk1hcnZlbHNfSExT/playlist.m3u8
+#EXTINF:-1 ,Movie Favorites by Lifetime
+https://e9b6bd7c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0hvbGlkYXlNb3ZpZUZhdm9yaXRlc2J5TGlmZXRpbWVfSExT/playlist.m3u8
+#EXTINF:-1 ,MTRSPT1
+https://amg02873-kravemedia-mtrspt1-tcl-ideo-rqk3n.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
+#EXTINF:-1 ,Murder She Wrote
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814606/hls/master.m3u8?ads.xumo_channelId=88814606&ads.xumo_streamId=88814606
+#EXTINF:-1 ,My Little Pet
+https://ads.its-newid.net/api/manifest.m3u8?tp=tcl&channel_name=mylittlepet&channel_id=newid_197&apikey=55080660-d60d-e00b-d70b-f7c96ba49821&auth=ea859425-343fe2fb-73f70415-e79d0490&ads.live=%5BCONTENT_LIVE%5D&ads.deviceid=%5BDEVICE_ID%5D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.appname=%5BAPP_NAME%5D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.ua=%5BUA%5D
+#EXTINF:-1 ,National Lampoon
+https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
+#EXTINF:-1 ,NBC Comedy Vault
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814615/hls/master.m3u8?ads.xumo_channelId=88814615&ads.xumo_streamId=88814615
+#EXTINF:-1 ,NBC LX Home
+https://d3fmqi91qduj7.cloudfront.net/11401/88814576/hls/master.m3u8?ads.xumo_channelId=88814576&ads.xumo_streamId=88814576
+#EXTINF:-1 ,NBC News Now
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814557/hls/master.m3u8?ads.xumo_channelId=88814557&ads.xumo_streamId=88814557
+#EXTINF:-1 ,NBC Sports
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads.xumo_channelId=88814624&ads.xumo_streamId=88814624
+#EXTINF:-1 ,Neil Degrasse Tyson's StarTalk TV
+https://linear-770.frequency.stream/dist/tcltv/770/hls/master/playlist.m3u8
+#EXTINF:-1 ,Newsmax 2
+https://amg00217-amg00217c3-tclideo-na-4032.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxottall-tclideona/playlist.m3u8
+#EXTINF:-1 ,Nosey
+https://ef39fa6d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX05vc2V5X0hMUw/playlist.m3u8
+#EXTINF:-1 ,Om Nom Stories
+https://api-ott-ocd-zl.ottera.tv/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=1035&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
+#EXTINF:-1 ,Outdoor America
+https://d3fmqi91qduj7.cloudfront.net/11401/88814547/hls/playlist.m3u8?ads.xumo_channelId=88814547a&ads.xumo_streamId=88814547
+#EXTINF:-1 ,Oxygen True Crime Archives
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814608/hls/master.m3u8?ads.xumo_channelId=88814608&ads.xumo_streamId=88814608
+#EXTINF:-1 ,Paranormal Files
+https://d3fmqi91qduj7.cloudfront.net/11401/88814552/hls/master.m3u8?ads.xumo_channelId=88814552&ads.xumo_streamId=88814552
+#EXTINF:-1 ,Perform by Lifetime
+https://bfd2fd7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1BlcmZvcm1fSExT/playlist.m3u8
+#EXTINF:-1 ,PursuitUp
+https://linear-205.frequency.stream/dist/tcltv/205/hls/master/playlist.m3u8
+#EXTINF:-1 ,Qello Concerts by Stingray
+https://d3fmqi91qduj7.cloudfront.net/11401/88814582/hls/master.m3u8?ads.xumo_channelId=88814582&ads.xumo_streamId=88814582
+#EXTINF:-1 ,Quality Value Convenience
+https://qvchsn-qvc-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Real Crime Uncovered by VideoElephant
+https://7b68b99a1f1e4157a64bd1c03a17b5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_CrimeFiles/playlist.m3u8
+#EXTINF:-1 ,Real Housewives Vault
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814611/hls/master.m3u8?ads.xumo_channelId=88814611&ads.xumo_streamId=88814611
+#EXTINF:-1 ,Revry
+https://linear-43.frequency.stream/dist/tcltv/43/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP
+#EXTINF:-1 ,Saturday Night Live Vault
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814616/hls/master.m3u8?ads.xumo_channelId=88814616&ads.xumo_streamId=88814616
+#EXTINF:-1 ,Saved by the Bell
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814614/hls/master.m3u8?ads.xumo_channelId=88814614&ads.xumo_streamId=88814614
+#EXTINF:-1 ,Scripps News
+https://b2b5559944b045bbaec8e4cc372056bb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_ScrippsNews/playlist.m3u8
+#EXTINF:-1 ,Sky News UK
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?ads.xumo_channelId=88814560&ads.xumo_streamId=88814560
+#EXTINF:-1 ,Smart Healthy Green Living
+https://na.linear.zype.com/9e977645-766d-47bb-b85c-729fff09f509/50fc886f-24eb-4386-a49c-a33dcf789655-tcl/live.m3u8
+#EXTINF:-1 ,Sonic the Hedgehog
+https://d3fmqi91qduj7.cloudfront.net/11401/88814632/hls/master.m3u8?ads.xumo_channelId=88814632&ads.xumo_streamId=88814632
+#EXTINF:-1 ,Stingray Classic Rock
+https://d3fmqi91qduj7.cloudfront.net/11401/88814589/hls/master.m3u8?ads.xumo_channelId=88814589&ads.xumo_streamId=88814589
+#EXTINF:-1 ,Stingray Classica
+https://d3fmqi91qduj7.cloudfront.net/11401/88814584/hls/master.m3u8?ads.xumo_channelId=88814584&ads.xumo_streamId=88814584
+#EXTINF:-1 ,Stingray CMusic
+https://d3fmqi91qduj7.cloudfront.net/11401/88814585/hls/master.m3u8?ads.xumo_channelId=88814585&ads.xumo_streamId=88814585
+#EXTINF:-1 ,Stingray Djazz
+https://d3fmqi91qduj7.cloudfront.net/11401/88814586/hls/master.m3u8?ads.xumo_channelId=88814586&ads.xumo_streamId=88814586
+#EXTINF:-1 ,Stingray Easy Listening
+https://d3fmqi91qduj7.cloudfront.net/11401/88814592/hls/master.m3u8?ads.xumo_channelId=88814592&ads.xumo_streamId=88814592
+#EXTINF:-1 ,Stingray Greatest Hits
+https://d3fmqi91qduj7.cloudfront.net/11401/88814588/hls/master.m3u8?ads.xumo_channelId=88814588&ads.xumo_streamId=88814588
+#EXTINF:-1 ,Stingray Hit List
+https://d3fmqi91qduj7.cloudfront.net/11401/88814591/hls/master.m3u8?ads.xumo_channelId=88814591&ads.xumo_streamId=88814591
+#EXTINF:-1 ,Stingray Hot Country
+https://d3fmqi91qduj7.cloudfront.net/11401/88814590/hls/master.m3u8?ads.xumo_channelId=88814590&ads.xumo_streamId=88814590
+#EXTINF:-1 ,Stingray Karaoke
+https://d3fmqi91qduj7.cloudfront.net/11401/88814583/hls/master.m3u8?ads.xumo_channelId=88814583&ads.xumo_streamId=88814583
+#EXTINF:-1 ,Stingray Naturescape
+https://d3fmqi91qduj7.cloudfront.net/11401/88814581/hls/master.m3u8?ads.xumo_channelId=88814581&ads.xumo_streamId=88814581
+#EXTINF:-1 ,Stingray Remember the '80s
+https://d3fmqi91qduj7.cloudfront.net/11401/88814587/hls/master.m3u8?ads.xumo_channelId=88814587&ads.xumo_streamId=88814587
+#EXTINF:-1 ,Stingray Spa
+https://d3fmqi91qduj7.cloudfront.net/11401/88814593/hls/master.m3u8?ads.xumo_channelId=88814593&ads.xumo_streamId=88814593
+#EXTINF:-1 ,Stingray TikTok Radio
+https://d3fmqi91qduj7.cloudfront.net/11401/88814594/hls/master.m3u8?ads.xumo_channelId=88814594&ads.xumo_streamId=88814594
+#EXTINF:-1 ,Strawberry Shortcake
+https://d3fmqi91qduj7.cloudfront.net/11401/88814630/hls/master.m3u8?ads.xumo_channelId=88814630&ads.xumo_streamId=88814630
+#EXTINF:-1 ,Strongman Champions League
+https://60c3a462dfba4686a343fd74c1d67c5d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1 ,Tankee
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11109
+#EXTINF:-1 ,TCL Holiday
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884554/hls/master.m3u8?ads.xumo_channelId=88884554&ads.xumo_streamId=88884554
+#EXTINF:-1 ,TCL Romance
+https://d3fmqi91qduj7.cloudfront.net/11401/88814628/hls/master.m3u8?ads.xumo_channelId=88814628&ads.xumo_streamId=88814628
+#EXTINF:-1 ,Teletubbies
+https://d3fmqi91qduj7.cloudfront.net/11401/88814631/hls/master.m3u8?ads.xumo_channelId=88814631&ads.xumo_streamId=88814631
+#EXTINF:-1 ,The Asylum
+https://d3fmqi91qduj7.cloudfront.net/11401/88884521/hls/master.m3u8?ads.xumo_channelId=88884521&ads.xumo_streamId=88884521
+#EXTINF:-1 ,The Dick Van Dyke Show
+https://d3fmqi91qduj7.cloudfront.net/11401/88884544/hls/master.m3u8?ads.xumo_channelId=88884544&ads.xumo_streamId=88884544
+#EXTINF:-1 ,The Lone Ranger
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814620/hls/master.m3u8?ads.xumo_channelId=88814620&ads.xumo_streamId=88814620
+#EXTINF:-1 ,The Rifleman
+https://d3fmqi91qduj7.cloudfront.net/11401/88884550/hls/master.m3u8?ads.xumo_channelId=88884550&ads.xumo_streamId=88884550
+#EXTINF:-1 ,Tiny House Nation
+https://82c47f68.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1RpbnlIb3VzZU5hdGlvbl9ITFM/playlist.m3u8
+#EXTINF:-1 ,TNA Wrestling Channel
+https://d3fmqi91qduj7.cloudfront.net/11401/88814515/hls/master.m3u8?ads.xumo_channelId=88814515&ads.xumo_streamId=88814515
+#EXTINF:-1 ,Today All Day
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
+#EXTINF:-1 ,Top Chef Vault
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814609/hls/master.m3u8?ads.xumo_channelId=88814609&ads.xumo_streamId=88814609
+#EXTINF:-1 ,Torque by History
+https://5243c636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1RvcnF1ZV9ITFM/playlist.m3u8
+#EXTINF:-1 ,Travel Escapes
+https://b385eb878e03425999616e7aedfe3605.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_TravelEscapes/playlist.m3u8
+#EXTINF:-1 ,TruBlu Crime Channel
+https://5b53689367b9416f8a130fcca166455b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_TruBlu/playlist.m3u8
+#EXTINF:-1 ,True and the Rainbow Kingdom
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5393
+#EXTINF:-1 ,Ultimate Trivia by Stingray
+https://d3fmqi91qduj7.cloudfront.net/11401/88814629/hls/master.m3u8?ads.xumo_channelId=88814629&ads.xumo_streamId=88814629
+#EXTINF:-1 ,Universal Action
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814617/hls/master.m3u8?ads.xumo_channelId=88814617&ads.xumo_streamId=88814617
+#EXTINF:-1 ,Universal Crime
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814613/hls/master.m3u8?ads.xumo_channelId=88814613&ads.xumo_streamId=88814613
+#EXTINF:-1 ,Universal Monsters
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814625/hls/master.m3u8?ads.xumo_channelId=88814625&ads.xumo_streamId=88814625
+#EXTINF:-1 ,Universal Westerns
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814622/hls/master.m3u8?ads.xumo_channelId=88814622&ads.xumo_streamId=88814622
+#EXTINF:-1 ,Unsolved Mysteries
+https://d3fmqi91qduj7.cloudfront.net/11401/88814518/hls/master.m3u8?ads.xumo_channelId=88814518&ads.xumo_streamId=88814518
+#EXTINF:-1 ,Untold Stories of the ER
+https://d3fmqi91qduj7.cloudfront.net/11401/88884547/hls/master.m3u8?ads.xumo_channelId=88884547&ads.xumo_streamId=88884547
+#EXTINF:-1 ,UnXplained Zone
+https://53257bca.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1VuWHBsYWluZWRab25lX0hMUw/playlist.m3u8
+#EXTINF:-1 ,Valorous TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88884518/hls/master.m3u8?ads.xumo_channelId=88884518&ads.xumo_streamId=88884518
+#EXTINF:-1 ,WatchMojo
+https://8500586b9cd5429aab11f0130d9ceb2c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_WatchMojo/playlist.m3u8
+#EXTINF:-1 ,World's Wildest Police Videos
+https://d3fmqi91qduj7.cloudfront.net/11401/88884549/hls/master.m3u8?ads.xumo_channelId=88884549&ads.xumo_streamId=88884549
+#EXTINF:-1 ,Wu Tang Collection TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814544/hls/master.m3u8?ads.xumo_channelId=88814544&ads.xumo_streamId=88814544
+#EXTINF:-1 ,Xtreme Outdoor by History
+https://d2aefbad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1NraWxsc0FuZFRocmlsbHNfSExT/playlist.m3u8
+#EXTINF:-1 ,Z Nation
+https://d3fmqi91qduj7.cloudfront.net/11401/88884552/hls/master.m3u8?ads.xumo_channelId=88884552&ads.xumo_streamId=88884552
