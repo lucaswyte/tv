@@ -811,6 +811,40 @@ a {
 .cid-uHbUrIhvHY .head-item {
   color: #ffffff;
 }
+.cid-uI5s5mBFoO {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-uI5s5mBFoO .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uI5s5mBFoO .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 767px) {
+  .cid-uI5s5mBFoO .image-wrapper {
+    flex-direction: column;
+  }
+  .cid-uI5s5mBFoO .image-wrapper img {
+    margin: auto;
+    margin-bottom: 1rem;
+  }
+}
+.cid-uI5s5mBFoO img {
+  width: 150px;
+  margin: 1rem;
+  border-radius: 0!important;
+}
+.cid-uI5s5mBFoO .mbr-description {
+  color: #9FE870;
+}
 .cid-uDMKLfgwi8 {
   background-image: url("../../../assets/images/white-1877x1040.webp");
 }
